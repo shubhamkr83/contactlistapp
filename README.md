@@ -18,3 +18,5 @@
   <li>npm install</li>
   <li>npm start</li>
 </ol>
+![Screenshot (380)](https://github.com/shubhamkr83/contactlistapp/assets/72254047/14b8e32c-65a2-4ac3-b26d-62a7d8a187ac)
+
