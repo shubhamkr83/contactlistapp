@@ -1,5 +1,5 @@
 # contactlistapp
-<h2> React Chat App</h2>
+<h2> React Contact List Web App</h2>
 <h3>Description</h3>
 <p> This is Chat Application build using Reactjs. </p>
 <h4>Live Project:- https://reactchatapp01.netlify.app/</h4>
@@ -11,3 +11,8 @@
 <li>Add a contact, make a POST call to the above url (from where you are fetching) and save the contact in react state. (This will be a dummy request, you won’t be able to add contacts to the server. But the request is valid and will send you some data. Read the guide).</li>
 <li>Update a contact, make a PUT call to the above url. (Again this is a dummy call).</li>
 <li>Delete a contact, make a DELETE call to the above url. (Again this is a dummy call).</li>
+
+  ## How to setup the project on local system
+  1. Clone this project
+  2. npm install
+  3. npm start
