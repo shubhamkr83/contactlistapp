@@ -19,5 +19,6 @@
   <li>npm start</li>
 </ol>
 
+<h2> Project Image </h2>
 ![Screenshot (380)](https://github.com/shubhamkr83/contactlistapp/assets/72254047/9c3bf331-421d-4a36-a58b-232037d11c4a)
 
