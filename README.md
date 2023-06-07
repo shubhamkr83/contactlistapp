@@ -1,6 +1,11 @@
 # contactlistapp
+<h2> React Chat App</h2>
+<h3>Description</h3>
+<p> This is Chat Application build using Reactjs. </p>
+<h4>Live Project:- https://reactchatapp01.netlify.app/</h4>
+<h4>Youtube:- https://www.youtube.com/watch?v=V9ocxLrbnLA</h4>
 
-<h3>Features</h3>
+<h2>Features</h2>
 <ul>
   <li>Fetch and show users from the api Json Placeholder</li>
 <li>Add a contact, make a POST call to the above url (from where you are fetching) and save the contact in react state. (This will be a dummy request, you won’t be able to add contacts to the server. But the request is valid and will send you some data. Read the guide).</li>
